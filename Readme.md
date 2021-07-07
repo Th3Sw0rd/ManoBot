@@ -8,9 +8,9 @@ El proyecto *ManoBot* consta del diseño y desarrollo de una mano ortopédica qu
 
 ## Integrantes
 Los integrantes del equipo son:
-* Nicolás Ezequiel Galván (Electrónica)
-* Tobias Ismael Juhasz (Programación)
-* Matias Ezequiel Dorrego (Programación)
+* Nicolás Ezequiel Galván (Electrónica, actual estudiante de Ingeniería Informática en la UBA)
+* Tobias Ismael Juhasz (Programación, actual estudiante de Ingeniería Informática en el ITBA)
+* Matias Ezequiel Dorrego (Programación, actual estudiante de Física en la UBA)
 
 ### Agracedimientos
 A nuestras familias que nos viven apoyando en todos los buenos y malos momentos.
